@@ -15,7 +15,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-[English](./about.md)
+<a href="#" onclick="navigateToPage('about'); return false;">English Page</a>
+
+<script>
+function navigateToPage(url) {
+    window.location.href = url;
+}
+</script>
 
 俺是一个博士生 ...
 
