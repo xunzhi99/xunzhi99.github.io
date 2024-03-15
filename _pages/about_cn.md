@@ -1,10 +1,10 @@
 ---
-permalink: /about_cn/
+permalink: /about_cn.html
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about_cn.html
+  - /about_cn/
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -15,6 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+[English](./about.md)
 
 俺是一个博士生 ...
 
@@ -23,19 +24,21 @@ My research interest includes ***. I have published ** papers
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 
-- *2022.02*: &nbsp;🎉🎉 
 
 # 📝 Publications 
 
-``AAAI 2022`` [End-to-End Transformer Based Model for Image Captioning](https://arxiv.org/abs/2203.15350), **Yiyu Wang**, Jungang Xu, Yingfei Sun \| [![](https://img.shields.io/github/stars/232525/PureT?style=social&label=PureT%20 Stars)](https://github.com/232525/PureT)
+- ``AAAI 2022`` [End-to-End Transformer Based Model for Image Captioning](https://arxiv.org/abs/2203.15350), **Yiyu Wang**, Jungang Xu, Yingfei Sun \| [![](https://img.shields.io/github/stars/232525/PureT?style=social&label=PureT%20 Stars)](https://github.com/232525/PureT)
 
+- ``Neurocomputing 2022`` [A Visual Persistence Model for Image Captioning](https://www.sciencedirect.com/science/article/pii/S0925231221014922?via%3Dihub), **Yiyu Wang**, Jungang Xu, Yingfei Sun
+
+- ``ArXiv preprint`` [Image Captioning based on Deep Learning Methods: A Survey](https://arxiv.org/abs/1905.08110), **Yiyu Wang**, Jungang Xu, Yingfei Sun, Ben He
 
 # 🎖 Honors and Awards
 - ***
 
 # 📖 Educations
-- *2019.09 - 2024.06*, 中国科学院大学. 
-- *2014.09 - 2018.06*, 西北农林科技大学. 
+- *2019.09 - 2024.06*, . 
+- *2014.09 - 2018.06*, . 
 
 # 💬 Invited Talks
 - ***
