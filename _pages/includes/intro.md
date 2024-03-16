@@ -1,0 +1,5 @@
+I am a PhD student in School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/). My supervisors are Prof. [Yingfei Sun](http://people.ucas.ac.cn/~yfsun) and Prof. [Jungang Xu](http://ccip.ucas.ac.cn/team/professor/%e5%be%90%e4%bf%8a%e5%88%9a/). 
+I got a B.E. degree in College of Information Engineering at Northwest A&F University, Shaanxi, China in June 2018.
+
+My research interests include computer vision and multimodal learning, specifically for image captioning.
+I have published some papers with <a href='https://scholar.google.com/citations?user=mDtSmsEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fcurya-wangyiyu%2Fcurya-wangyiyu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
