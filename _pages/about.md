@@ -40,6 +40,8 @@ My research interest includes ***. I have published ** papers
 
 - ``Neurocomputing 2022`` [A Visual Persistence Model for Image Captioning](https://www.sciencedirect.com/science/article/pii/S0925231221014922?via%3Dihub), **Yiyu Wang**, Jungang Xu, Yingfei Sun
 
+- ``IJCNN 2024`` [CLIP-Driven Low-Cost Image Captioning](), **Yiyu Wang**, Jungang Xu, Yingfei Sun
+
 - ``ArXiv preprint`` [Image Captioning based on Deep Learning Methods: A Survey](https://arxiv.org/abs/1905.08110), **Yiyu Wang**, Jungang Xu, Yingfei Sun, Ben He
 
 # 🎖 Honors and Awards
@@ -49,8 +51,8 @@ My research interest includes ***. I have published ** papers
 - *2018.09 - 2024.06*, Ph.D. degree, School of Electronic, Electrical and Communication Engineering, University of Chinese Academy of Sciences (中国科学院大学). 
 - *2014.09 - 2018.06*, B.S. degree, School of Information Engineering, Northwest A&F University (西北农林科技大学). 
 
-# 💬 Invited Talks
-- NULL
-
 # 💻 Internships
 - *2022.08 - 2023.08*, ***, China.
+
+# 💬 Others
+- NULL
