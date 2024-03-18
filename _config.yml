@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yiyu Wang (王义宇)"
-description              : "Ph.D. Student at UCAS"
-repository               : "curya-wangyiyu/curya-wangyiyu.github.io"
+title                    : "Xunzhi Xiang (向迅之)"
+description              : "Master Student at UCAS"
+repository               : "xunzhi99/xunzhi99.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,16 +21,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yiyu Wang (王义宇)"
+  name             : "Xunzhi Xiang (向迅之)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "没人枪毙你，你就活着。"
+  bio              : "鲜百香双响炮"
   location         : "Beijing, China"
   institution      : "UCAS"
   employer         : "***"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mDtSmsEAAAAJ"
-  semanticscholar  : "https://www.semanticscholar.org/author/Yiyu-Wang/2107946245"
-  email            : "wangyiyu18@mails.ucas.ac.cn"
+  googlescholar    :
+  semanticscholar  : 
+  email            : "xiangxunzhi21@mails.ucas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -39,8 +39,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github_self      : 232525
-  github           : curya-wangyiyu # e.g., "github username"
+  github_self      : 
+  github           : xunzhi99 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
